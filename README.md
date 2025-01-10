@@ -12,3 +12,5 @@ Regresi Logistik lebih baik karna jika dibandingkan dengan random forest, akuras
 
 Task 2:
 ![Alt Text](images/dataset-infopage.png)
+![Alt Text](images/artifact.png)
+

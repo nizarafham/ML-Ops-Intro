@@ -8,7 +8,7 @@ Environtment Setup
 
 Task 1: Synthetic Data Results
 ![Alt Text](images/regresilogistik.png)
-![Alt Text](images/reandomforest.png)
+![Alt Text](images/randomforest.png)
 Regresi Logistik lebih baik karna jika dibandingkan dengan random forest, akurasi dan auc score dari regresi logistik lebih besar.
 
 Task 2:
